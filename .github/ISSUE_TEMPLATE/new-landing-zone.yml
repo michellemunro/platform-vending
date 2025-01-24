@@ -17,6 +17,7 @@ body:
         * `online`: For resources that will be accessible from the internet
         * `secure`: Resources that needs additional protection and security settings
         * `arc`: For managing on-premises resources with Azure Arc
+        * `data`: For managing on-premises resources with Azure Arc
 
   - type: dropdown
     id: archetype
