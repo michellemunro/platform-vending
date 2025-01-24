@@ -3,7 +3,7 @@ description: Use this form to request a new landing zone in Azure
 title: 'New landing zone: '
 labels: ['landingzone']
 assignees:
-  - sjovang
+  - michellemunro
 
 body:
   - type: markdown
