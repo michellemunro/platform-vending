@@ -1,0 +1,8 @@
+name: finance1
+subscription_id: bd3f45a2-dff8-4b42-af41-6aa37aa4fc45
+subscription_type: corp
+virtual_networks:
+  vnet1:
+    address_space:
+      - 10.0.0.0/24
+    hub_peering_enabled: false
